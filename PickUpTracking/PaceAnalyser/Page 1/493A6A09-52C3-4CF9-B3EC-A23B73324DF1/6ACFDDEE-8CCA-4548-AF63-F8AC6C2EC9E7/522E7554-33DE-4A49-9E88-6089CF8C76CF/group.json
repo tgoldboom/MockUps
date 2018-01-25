@@ -13,10 +13,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 280,
-    "width": 1360,
+    "height": 296,
+    "width": 1372,
     "x": 0,
-    "y": 56
+    "y": 47
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
@@ -34,8 +34,8 @@
       "id": "C16E0780-5F7A-405D-8A0F-11F7C005877C"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Path",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

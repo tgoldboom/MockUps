@@ -14,8 +14,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 276,
-    "width": 1360,
+    "height": 291.7714285714284,
+    "width": 1372.000000000001,
     "x": 0,
     "y": 0
   },
@@ -32,8 +32,8 @@
       "id": "5EC84718-14B7-4F10-9E15-E9698EC42955"
     }
   ],
-  "name": "Path 2",
-  "nameIsFixed": false,
+  "name": "Outline",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -48,7 +48,7 @@
           "alpha": 1,
           "blue": 1,
           "green": 0.5803921568627453,
-          "red": 0.00784313725490193
+          "red": 0.007843137254901926
         },
         "fillType": 0,
         "isEnabled": true,

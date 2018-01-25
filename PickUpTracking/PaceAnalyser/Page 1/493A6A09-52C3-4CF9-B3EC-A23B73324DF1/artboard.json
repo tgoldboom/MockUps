@@ -49,17 +49,36 @@
   "layers": [
     {
       "class": "group",
+      "id": "22FCBEB8-B782-4F2A-9FB3-28A179F45AF0"
+    },
+    {
+      "class": "group",
       "id": "6ACFDDEE-8CCA-4548-AF63-F8AC6C2EC9E7"
     },
     {
       "class": "shapeGroup",
-      "id": "B96A4B88-0220-47BF-AE6D-8FAC0483E817"
+      "id": "19E56B73-D2E7-4CE3-808F-42CBB1DBF4D1"
     },
     {
-      "class": "shapeGroup",
-      "id": "33A4B74B-7407-46B0-ACD8-DBEE4E92774E"
+      "class": "text",
+      "id": "184A7F4B-6A5A-4EBD-82F3-BEBB0B177964"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 20,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 960
+  },
   "name": "Desktop HD",
   "nameIsFixed": false,
   "resizesContent": true,
@@ -75,7 +94,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": 10,
     "guides": [
     ]
   }

@@ -13,17 +13,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 360,
-    "width": 1360,
+    "height": 380,
+    "width": 1372,
     "x": 61,
-    "y": 657
+    "y": 637
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "shapeGroup",
@@ -40,6 +40,18 @@
     {
       "class": "text",
       "id": "886A5FC0-2363-4BCF-A2E7-398943E66B63"
+    },
+    {
+      "class": "text",
+      "id": "49D53083-FDA5-421E-91C7-8F739A4CA151"
+    },
+    {
+      "class": "text",
+      "id": "6E496253-B260-46D6-9371-6D9C05060255"
+    },
+    {
+      "class": "group",
+      "id": "0F664D6E-10DE-4FC6-8500-6B5C17362E14"
     }
   ],
   "name": "Graph",
