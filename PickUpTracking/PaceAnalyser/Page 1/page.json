@@ -18,6 +18,12 @@
     "x": 0,
     "y": 0
   },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -32,6 +38,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "group",
+      "id": "22FCBEB8-B782-4F2A-9FB3-28A179F45AF0"
+    },
     {
       "class": "artboard",
       "id": "493A6A09-52C3-4CF9-B3EC-A23B73324DF1"

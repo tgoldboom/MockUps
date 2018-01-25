@@ -22,14 +22,20 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 29,
+    "x": 28,
     "y": -76
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": 61,
     "guides": [
     ]
   },
@@ -39,23 +45,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "07343872-022D-4023-8836-4967C57CC01B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "92E7FE7D-2D65-4EE7-8E4E-AFFBB74C80C3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6442FC75-4D9F-465A-8609-23F62A6216E6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C16E0780-5F7A-405D-8A0F-11F7C005877C"
+      "class": "group",
+      "id": "6ACFDDEE-8CCA-4548-AF63-F8AC6C2EC9E7"
     },
     {
       "class": "shapeGroup",
