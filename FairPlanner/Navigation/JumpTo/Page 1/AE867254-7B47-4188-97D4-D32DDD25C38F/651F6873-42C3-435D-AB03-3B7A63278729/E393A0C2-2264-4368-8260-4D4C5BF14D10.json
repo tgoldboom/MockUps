@@ -1,7 +1,7 @@
 {
   "_class": "rectangle",
   "booleanOperation": -1,
-  "do_objectID": "BA395A02-A529-4730-A99E-CE0893209C46",
+  "do_objectID": "E393A0C2-2264-4368-8260-4D4C5BF14D10",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -79,11 +79,5 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "userInfo": {
-    "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-      }
-    }
-  }
+  "shouldBreakMaskChain": false
 }

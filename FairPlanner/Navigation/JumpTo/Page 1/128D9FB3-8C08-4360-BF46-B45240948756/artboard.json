@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "8901703A-8AEB-4379-8D95-694B400CF7EA",
+  "do_objectID": "128D9FB3-8C08-4360-BF46-B45240948756",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -31,7 +31,7 @@
     "constrainProportions": false,
     "height": 1024,
     "width": 1440,
-    "x": 3109,
+    "x": 6189,
     "y": -76
   },
   "grid": {
@@ -41,7 +41,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -58,19 +58,59 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "2CA593DA-CF6B-4199-B025-C1DB16D622BE"
+      "id": "82AD3DC2-8655-42C9-93C0-C850AB2BBAB7"
     },
     {
       "class": "shapeGroup",
-      "id": "28A873E1-30CC-4AB7-AFD4-D021A088E65B"
+      "id": "A9E52D51-F43D-47D0-AFA9-06F8B59EACED"
     },
     {
       "class": "symbolInstance",
-      "id": "5C2112E9-FFBC-4486-A8C1-BD8F6F1D37AC"
+      "id": "0924A94C-CE26-4332-8CA8-2A6045E7ABC4"
     },
     {
       "class": "text",
-      "id": "419FD867-FDCF-46BF-B4FB-EBF7726CD8CE"
+      "id": "0346D932-348A-409A-8C71-425C102C1402"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D1A8461E-93C5-4732-9B9B-DAEDC1519C79"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "519ECF93-1B1E-46D4-8234-5A132B01A94E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FDB5D0D8-0148-4556-99B3-AAB9FAD425A1"
+    },
+    {
+      "class": "text",
+      "id": "EF7C70C9-33FF-4DD1-8447-FD37AABE808F"
+    },
+    {
+      "class": "text",
+      "id": "48979D65-39AE-4958-9EFE-229D568C0830"
+    },
+    {
+      "class": "text",
+      "id": "8AC89D92-950D-4B18-AA61-F1CFFE940BB3"
+    },
+    {
+      "class": "text",
+      "id": "8319E3E4-9479-40F5-8CB6-872E35AFC462"
+    },
+    {
+      "class": "text",
+      "id": "F9740FE7-C7C4-419C-992E-A031B93287DD"
+    },
+    {
+      "class": "text",
+      "id": "88C57890-5888-44A3-9D98-83EC08A011C6"
+    },
+    {
+      "class": "text",
+      "id": "2C2708DE-3638-447C-96F1-607DE6F00ACB"
     }
   ],
   "name": "FairPlanner/Sidebar/Collapsed",
@@ -82,6 +122,22 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 1
+      }
+    ],
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
