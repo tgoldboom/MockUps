@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "8A30E198-1CB0-49FA-B0D8-FE246B766737",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 18,
+    "x": 0,
+    "y": 335
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "92F79E41-30D2-49EF-8607-6447D7AF838A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A64AA7BB-2A8C-4C25-B25F-0F2A06C4E7FE"
+    }
+  ],
+  "name": "Component/Checkbox/Un-selected Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

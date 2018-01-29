@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "4C0D0A06-CF56-4E5F-A82C-DDB347A8B81D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 48,
+    "width": 1116,
+    "x": 0,
+    "y": 31
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6248A349-8109-4886-A890-84BC9E48AF19"
+    },
+    {
+      "class": "group",
+      "id": "857AC699-CB68-4155-B11F-DAC8B3E3A278"
+    },
+    {
+      "class": "group",
+      "id": "A2ADBBBB-9D5A-4B0F-BCE5-77D5C3EA613F"
+    },
+    {
+      "class": "group",
+      "id": "2F260BD1-CA3C-494A-B0F3-09AA04CA629E"
+    },
+    {
+      "class": "text",
+      "id": "FA6C368D-84F3-4F4A-8784-78E3EFD04F73"
+    },
+    {
+      "class": "text",
+      "id": "64B4889B-C10C-4B58-9CCF-7F67D7964DAC"
+    }
+  ],
+  "name": "Batch action bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

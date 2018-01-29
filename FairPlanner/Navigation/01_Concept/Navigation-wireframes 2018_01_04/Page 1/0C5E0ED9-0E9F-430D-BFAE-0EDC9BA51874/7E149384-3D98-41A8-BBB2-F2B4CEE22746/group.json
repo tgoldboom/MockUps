@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "7E149384-3D98-41A8-BBB2-F2B4CEE22746",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 608,
+    "width": 1116,
+    "x": 262,
+    "y": 195
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "C0AC5A6B-16BF-4B43-B81E-1FFAB2AF4738"
+    },
+    {
+      "class": "group",
+      "id": "73FF2D9F-7768-4DEE-9C3D-AE621E9FDA45"
+    },
+    {
+      "class": "group",
+      "id": "AF9C453F-F114-4F7C-B1BC-594991D8DEF9"
+    },
+    {
+      "class": "group",
+      "id": "DF566F55-DA80-4C04-A28A-F866E657EDEF"
+    },
+    {
+      "class": "group",
+      "id": "0A34D270-5E41-4FAA-A270-C7D30E053694"
+    }
+  ],
+  "name": "Data Table/Multi-select/Activated",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

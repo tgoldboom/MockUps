@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGaGlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGQcIDxAcHR4fJysyNUBDRkpOVldYWVpeYmRVJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAYgANbVGFibGUgdGl0bGXTERIKExcbV05TLmtleXNaTlMub2JqZWN0c6MUFRaABIAFgAajGBkagAeAC4APgBdXTlNDb2xvcl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRl1CAhIgojJCUmVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZU8QKDAuMDgyMzUyOTQxMTggMC4xNjA3ODQzMTM3IDAuMjA3ODQzMTM3MwAQAYAIgArSKAopKlROU0lEEAGACdIsLS4vWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNDb2xvclNwYWNlojAxXE5TQ29sb3JTcGFjZVhOU09iamVjdNIsLTM0V05TQ29sb3KiMzHWNjc4OQo6Ozw9PD89Wk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACADCNANwAAAAAAAIAMgA7SEgpBQqCADdIsLURFV05TQXJyYXmiRDHSLC1HSF8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0dJMV8QEE5TUGFyYWdyYXBoU3R5bGXSCktMTV8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBaAENMREgpPUlWiUFGAEYASolNUgBOAFIAVXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQDIAAAAAAABfEBRJQk1QbGV4U2Fucy1TZW1pQm9sZNIsLVtcXxATTlNNdXRhYmxlRGljdGlvbmFyeaNbXTFcTlNEaWN0aW9uYXJ50iwtX2BfEBBOU0ZvbnREZXNjcmlwdG9yomExXxAQTlNGb250RGVzY3JpcHRvctIsLV1jol0x0iwtZWZfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiZzFfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRamtUcm9vdIABAAgAEQAaACMALQAyADcAUwBZAGAAaQBwAH0AfwCBAIMAjwCWAJ4AqQCtAK8AsQCzALcAuQC7AL0AvwDHANoA/AEFAQsBGAEtAVgBWgFcAV4BYwFoAWoBbAFxAXwBhQGSAZUBogGrAbABuAG7AcgB0wHfAfEB/gIQAhICFAIdAh8CIQImAicCKQIuAjYCOQI+AlgCXAJvAnQCkQKTApUCnAKfAqECowKmAqgCqgKsAsIC2ALhAvgC/QMTAxcDJAMpAzwDPwNSA1cDWgNfA3QDdwOMA54DoQOmAAAAAAAAAgEAAAAAAAAAbAAAAAAAAAAAAAAAAAAAA6g="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "66506F41-B018-4C64-9965-D83367619A6E",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 23,
+    "width": 84,
+    "x": 0,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 4}, {83, 15}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Table title",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "D5F80360-DC16-470A-965D-2C9C92A2B157"
+  },
+  "textBehaviour": 0
+}
