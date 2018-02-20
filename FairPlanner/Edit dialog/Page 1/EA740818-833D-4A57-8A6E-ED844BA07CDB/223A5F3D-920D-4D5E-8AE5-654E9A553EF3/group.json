@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "do_objectID": "223A5F3D-920D-4D5E-8AE5-654E9A553EF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 33.40909090909092,
+    "width": 30,
+    "x": 989,
+    "y": 171
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BCD836DD-39CB-4524-BAE3-8E77E928B38C"
+    },
+    {
+      "class": "text",
+      "id": "10534E1A-FE0C-4707-B883-E9024A088CEC"
+    },
+    {
+      "class": "text",
+      "id": "A520D3AE-5E5C-4589-8EC7-EBB743441C77"
+    },
+    {
+      "class": "text",
+      "id": "AEC34C15-DD89-47AC-8640-559C0C4B7B3D"
+    }
+  ],
+  "name": "Magic numbers",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "790A06A1-AA3A-48B1-AD10-58BD6F6039F5"
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
