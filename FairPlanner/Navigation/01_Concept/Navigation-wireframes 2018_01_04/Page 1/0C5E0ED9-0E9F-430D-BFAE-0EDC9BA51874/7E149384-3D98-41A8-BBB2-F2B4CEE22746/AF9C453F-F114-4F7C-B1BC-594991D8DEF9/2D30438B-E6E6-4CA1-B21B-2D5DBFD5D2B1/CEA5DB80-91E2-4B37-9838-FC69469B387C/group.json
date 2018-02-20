@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "CEA5DB80-91E2-4B37-9838-FC69469B387C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 8,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "349860B6-FDD9-48D6-9AE3-67C4501DAD1E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F91922F8-A279-409B-A4A3-3D282ACFC6BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0BB147A8-C1C0-44B3-A82F-5B43ABD30C05"
+    }
+  ],
+  "name": "search--glyph",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

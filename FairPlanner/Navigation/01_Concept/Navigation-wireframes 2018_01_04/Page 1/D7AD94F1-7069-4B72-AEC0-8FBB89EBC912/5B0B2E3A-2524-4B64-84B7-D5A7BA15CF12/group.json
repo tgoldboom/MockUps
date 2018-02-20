@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "5B0B2E3A-2524-4B64-84B7-D5A7BA15CF12",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 88,
+    "width": 1240,
+    "x": 200,
+    "y": 47
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "43454396-915C-4462-96FE-AE8F50D9155F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F1B87565-2858-4888-B56A-1DEC07A15ED1"
+    },
+    {
+      "class": "text",
+      "id": "EB840103-43C7-4635-8BF6-4A1BD6C00800"
+    },
+    {
+      "class": "text",
+      "id": "A27FC3B2-CBDB-4CCB-899B-2874566BA279"
+    }
+  ],
+  "name": "DPH/left nav ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invisionlabs.library": {
+      "original-layer": {
+        "originalID": "BBFA4897-F4A0-493E-B920-D3CEE85F653E",
+        "version": 3
+      }
+    }
+  }
+}

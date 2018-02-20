@@ -1,0 +1,99 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "CDECF327-AC5A-46AD-BBF5-09F3F6C10771",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 977,
+    "width": 200,
+    "x": 0,
+    "y": 47
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 1,
+  "masterInfluenceEdgeMaxYPadding": 1,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "Left Navigation/Interior/Parent select",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "73F2305E-16CD-4F15-8BFA-4B77B0465030",
+      "overrideName": "ECF71F68-83A7-42AA-954C-C423002D6668_stringValue",
+      "value": "Planning"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B0A0DD32-4CA1-4A51-ABB1-7A43D60728EC",
+      "overrideName": "611BB1A0-7A1C-4F24-880C-329E8D472188_stringValue",
+      "value": "Workflow"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "746DFE2A-6494-4E3C-B638-87D0DAA4D966",
+      "overrideName": "FE74E26C-C814-4266-8B18-B1D408FB9767_stringValue",
+      "value": "Pickup tracking"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1EC9D3E3-40CC-4C17-B473-E2ECEA51697A",
+      "overrideName": "73540BBA-23A6-4006-8EFF-789E93515F38_stringValue",
+      "value": "Import/Export"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0BC027E1-DCEA-4AD3-A37C-71E9084CCC32",
+      "overrideName": "8C72D1D8-B566-4167-93B7-14EC0852F147_stringValue",
+      "value": "Reports"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0C2B7194-4481-4AE5-B9A9-0794340C79F1",
+      "overrideName": "9808A743-1EFB-4A30-8FC2-B57E4ECFF859_stringValue",
+      "value": "Settings"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "933605EE-5953-4773-95D4-25A8A73C81DD",
+      "overrideName": "2016F298-E4F8-40BC-9B78-178968B30C46_stringValue",
+      "value": "Help"
+    }
+  ],
+  "overrides": {
+    "2016F298-E4F8-40BC-9B78-178968B30C46": "Help",
+    "611BB1A0-7A1C-4F24-880C-329E8D472188": "Workflow",
+    "73540BBA-23A6-4006-8EFF-789E93515F38": "Import/Export",
+    "8C72D1D8-B566-4167-93B7-14EC0852F147": "Reports",
+    "9808A743-1EFB-4A30-8FC2-B57E4ECFF859": "Settings",
+    "ECF71F68-83A7-42AA-954C-C423002D6668": "Planning",
+    "FE74E26C-C814-4266-8B18-B1D408FB9767": "Pickup tracking"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "0647FAAF-624B-475C-835C-B615BE93CE7D",
+  "verticalSpacing": 0
+}
